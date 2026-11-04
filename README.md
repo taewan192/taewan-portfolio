@@ -25,7 +25,7 @@
 
 `index.html` 안의 `PROJECTS` 배열에서 프로젝트를 편집하세요. `categories`에는 `html`, `mobile`, `ai`, `chatbot`, `tools`를 여러 개 지정할 수 있습니다. 카테고리 숫자는 자동 계산됩니다. 설명과 세부 기능은 2026-10-22에 확인한 각 저장소 README를 바탕으로 작성했으며 카드 그래픽은 실제 화면 캡처가 아닌 프로젝트별 그래픽입니다.
 
-현재 연결: 하루체크, Neon Drop, LDPlayer Deep RL, MillionLords Bot, RLOG, Sudoku, MLCalculator, MillionLords 가입 봇. MLCalculator는 웹 버전이 있어 HTML과 앱·도구 양쪽으로 분류했습니다. Neon Drop은 HTML로도 실행되지만 모바일 게임 분류로 지정했습니다.
+현재 연결된 프로젝트는 총 9개입니다. HTML: RLOG·개인 포트폴리오 / 앱·도구: 하루체크·MLCalculator / 모바일 게임: Neon Drop·Sudoku / AI: LDPlayer Deep RL / Chat Bot: MillionLords Bot·MillionLords 가입 봇. 하루체크와 MLCalculator는 HTML 필터에 포함하지 않습니다.
 
 GitHub 계정: https://github.com/taewan192
 
